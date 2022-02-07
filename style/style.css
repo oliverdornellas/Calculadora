@@ -1,0 +1,42 @@
+body{
+    padding-top: 80px;
+    background-color: rgb(247, 247, 82);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+h1{
+    background-color: rebeccapurple;
+    color: white;
+    padding: 5px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+input{
+    width: 60%;
+    height: 30px;
+    box-sizing: border-box;
+}
+
+#form{
+    width: 40%;
+}
+
+button{
+    background-color: rebeccapurple ;
+    color: white;
+    border: none;
+    width: 60%;
+    height: 40px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+button:hover{
+    cursor: pointer;
+    background-color:rgb(58, 23, 94);
+
+}
